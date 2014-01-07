@@ -1,0 +1,1 @@
+UglifyJS plugin for bild.
